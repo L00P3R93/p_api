@@ -8,5 +8,6 @@ Simple RESTful API with:
 - firebase/php-jwt
 - jquery
 - bootstrap4/bootstrap5
+- bootstrap-icons
 - bootbox.js
 - semanticUI
