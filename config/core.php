@@ -4,7 +4,7 @@
 
     date_default_timezone_set('Africa/Nairobi');
 
-    $key = "syntax@29714162";
+    $key = ""; //Set a unique Key
     $issued_at = time();
     $expiration_time = $issued_at + (60 * 60); //valid for 1 hour
     $issuer = "http://localhost/api/syntaks/";
