@@ -1,0 +1,12 @@
+.idea/
+bootstrap/
+bootstrap-icons/
+vendor/
+semantic-ui/
+
+composer.json
+composer.lock
+
+app/assets/js/bootbox.min.js
+app/assets/js/jquery.min.js
+
