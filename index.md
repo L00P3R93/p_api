@@ -6,7 +6,13 @@ A simple Restful PHP API with the following capabilities:
     - Data Pagination
 
 ### Components
-These are the components fequirements:
-  - Apache Server with PHP >= 5.4 Installed
-  - MySQL server ***(preferably PHPMYADMIN)***
-  - Code Editor
+These are the components for the API:
+    - Auth
+    - Objects
+    - Products
+    - Shared
+
+### Requirements:
+    - Apache Server with PHP >= 5.4 Installed
+    - MySQL server ***(preferably PHPMYADMIN)***
+    - Code Editor
